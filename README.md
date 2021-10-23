@@ -1,0 +1,1 @@
+# terragrunt_mini_aws_example
