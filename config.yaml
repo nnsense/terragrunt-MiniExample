@@ -1,0 +1,4 @@
+---
+environment: "tst1"
+region : "eu-central-1"
+profile: "default"
